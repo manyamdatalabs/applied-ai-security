@@ -43,7 +43,7 @@ Presentation layer:
 
 ## 👤 About Me  
 
-I work at the intersection of **AI, cloud, and cybersecurity**, focusing on building practical, secure solutions for real-world environments.
+I build secure, cloud-native GenAI POCs that help teams decide faster.
 
 My background includes **DevOps, platform engineering, and security**, with a strong interest in integrating **Generative AI** into existing systems in a reliable and responsible way.
 
