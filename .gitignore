@@ -1,1 +1,36 @@
+############################
+# Terraform (all levels)
+############################
+
+# Terraform working directory
+**/.terraform/*
+
+# Terraform state files
+**/*.tfstate
+**/*.tfstate.backup
+
+# Terraform variable files (can contain secrets)
+**/*.tfvars
+
+# Terraform lock file (optional for learning repos)
+**/.terraform.lock.hcl
+
+
+############################
+# Logs
+############################
+crash.log
+
+
+############################
+# OS / Editor files
+############################
+
+# macOS
 .DS_Store
+
+# VS Code
+.vscode/
+
+# IntelliJ / JetBrains
+.idea/
