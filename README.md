@@ -1,4 +1,5 @@
-# applied-ai-security  
+![Applied AI Security Banner](banner.png)
+
 
 ![AI](https://img.shields.io/badge/AI-Generative-blue)
 ![Security](https://img.shields.io/badge/Security-Cyber-red)
