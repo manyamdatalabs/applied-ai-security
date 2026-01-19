@@ -34,3 +34,6 @@ crash.log
 
 # IntelliJ / JetBrains
 .idea/
+
+#others
+README_old.md
