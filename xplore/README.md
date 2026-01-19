@@ -1,37 +1,17 @@
-# AI-Security-Ops
+# xplore
 
-This repository is my personal learning space where I document my daily progress in:
+This folder contains my **learning material and concept notes** related to:
 
-- Cybersecurity  
-- Generative AI  
-- DevSecOps / Cloud / Automation  
+- DevOps and cloud fundamentals  
+- Cybersecurity and application security  
+- Generative AI, LLMs, and AI integrations  
 
-I upload:
-- My handwritten notes (PDF)
-- Practice exercises
-- Code samples
-- Screenshots from VS Code / terminal
+The goal of this space is to **build strong foundational understanding** before applying the concepts in real projects.
 
-The idea is simple:  
-Learn consistently, practice daily, and track real progress.
+You’ll find:
+- PDFs and reference material  
+- Concept summaries  
+- Learning notes  
+- Technical explanations  
 
----
-
-### Folder Structure
-
-- cybersecurity/  
-- generative-ai/  
-- devsecops/  
-
-Each day has:
-- notes.pdf  
-- exercises.md  
-- code/  
-- screenshots/  
-
----
-
-### Why this repo?
-
-To stay accountable, build real skills, and create a visible learning record.
-
+This is my **knowledge base** for continuous learning.
