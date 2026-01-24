@@ -1,39 +1,78 @@
 ############################
-# Terraform (all levels)
+# Secrets & Credentials
 ############################
+**/.env
+**/*.pem
+**/*.key
+**/*.crt
+**/*.p12
+**/*.pfx
+**/*secrets*.json
+**/*credentials*.json
+**/*config*.json
+**/.aws/
 
-# Terraform working directory
+############################
+# Terraform
+############################
 **/.terraform/*
-
-# Terraform state files
 **/*.tfstate
 **/*.tfstate.backup
-
-# Terraform variable files (can contain secrets)
 **/*.tfvars
-
-# Terraform lock file (optional for learning repos)
 **/.terraform.lock.hcl
+**/*.tfplan
 
+############################
+# Docker
+############################
+**/.docker/
+**/docker-compose.override.yml
+
+############################
+# Ansible
+############################
+**/*.retry
+**/inventory.ini
+**/hosts.ini
+
+############################
+# AI / LLM / Vector Stores
+############################
+**/chroma/
+**/faiss_index/
+**/vectorstore/
+**/*.bin
+**/*.pt
+**/*.onnx
+
+############################
+# Python
+############################
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+############################
+# Jupyter
+############################
+.ipynb_checkpoints/
 
 ############################
 # Logs
 ############################
+*.log
 crash.log
-
+debug.log
 
 ############################
-# OS / Editor files
+# OS / Editors
 ############################
-
-# macOS
 .DS_Store
-
-# VS Code
 .vscode/
-
-# IntelliJ / JetBrains
 .idea/
 
-#others
-README_old.md
+############################
+# Misc
+############################
+
